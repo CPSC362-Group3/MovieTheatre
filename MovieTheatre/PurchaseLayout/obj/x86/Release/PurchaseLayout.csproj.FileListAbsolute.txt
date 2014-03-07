@@ -1,0 +1,6 @@
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\bin\Release\PurchaseLayout.exe
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\bin\Release\PurchaseLayout.pdb
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\obj\x86\Release\PurchaseLayout.Properties.Resources.resources
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\obj\x86\Release\PurchaseLayout.csproj.GenerateResource.Cache
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\obj\x86\Release\PurchaseLayout.exe
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\obj\x86\Release\PurchaseLayout.pdb

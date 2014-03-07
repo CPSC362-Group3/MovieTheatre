@@ -1,0 +1,10 @@
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\bin\Debug\PurchaseLayout.exe
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\bin\Debug\PurchaseLayout.pdb
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\obj\x86\Debug\PurchaseLayout.Properties.Resources.resources
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\obj\x86\Debug\PurchaseLayout.csproj.GenerateResource.Cache
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\obj\x86\Debug\PurchaseLayout.exe
+C:\Users\Miguel\AppData\Local\Temporary Projects\PurchaseLayout\obj\x86\Debug\PurchaseLayout.pdb
+C:\Users\Miguel\documents\visual studio 2010\Projects\MovieTheatre\PurchaseLayout\obj\x86\Debug\PurchaseLayout.exe
+C:\Users\Miguel\documents\visual studio 2010\Projects\MovieTheatre\PurchaseLayout\obj\x86\Debug\PurchaseLayout.pdb
+C:\Users\Miguel\Documents\GitHub\CPSC362-MovieTheatre\MovieTheatre\PurchaseLayout\obj\x86\Debug\PurchaseLayout.exe
+C:\Users\Miguel\Documents\GitHub\CPSC362-MovieTheatre\MovieTheatre\PurchaseLayout\obj\x86\Debug\PurchaseLayout.pdb
